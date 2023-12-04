@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": "1", "name": "John Doe", "avatarUrl": "https://sun1-89.userapi.com/s/v1/if1/Gm3FIrxPRGPVv3WYyCKRTcG9LphrAzKeob-gkZwUBRHJXA6-dHFOfAcFFlkF4RLuqV-h6m9G.jpg?size=50x0&quality=96&crop=40,40,320,320&ava=1" },
+    { "id": "2", "name": "Jane Smith", "avatarUrl": "https://sun1-97.userapi.com/s/v1/ig2/aJhARjrMzvc1ubvGYliTZF_4ax_Y6q36D3kQmUW9pfhjU-zz9Zms6VTPVJN7SizFYUiMxAFy8O707iW-BgOLEbC1.jpg?size=50x0&quality=96&crop=78,0,475,475&ava=1" },
+    { "id": "3", "name": "Abbey Winks", "avatarUrl": "https://sun1-95.userapi.com/s/v1/ig2/9A9Mpxu4qi366-4__KY8Ot0frm_qv5GPUdGZ2f-nqwuV6k4XF7TFABIrKrtBKq8B-u_60mu8F8y8MGKdgWmNulxi.jpg?size=50x50&quality=96&crop=51,51,409,409&ava=1" },
+    { "id": "4", "name": "Jenya Gindin", "avatarUrl": "https://sun1-89.userapi.com/s/v1/if1/Gm3FIrxPRGPVv3WYyCKRTcG9LphrAzKeob-gkZwUBRHJXA6-dHFOfAcFFlkF4RLuqV-h6m9G.jpg?size=50x0&quality=96&crop=40,40,320,320&ava=1" },
+    { "id": "5", "name": "Dima Syasin", "avatarUrl": "https://sun1-97.userapi.com/s/v1/ig2/aJhARjrMzvc1ubvGYliTZF_4ax_Y6q36D3kQmUW9pfhjU-zz9Zms6VTPVJN7SizFYUiMxAFy8O707iW-BgOLEbC1.jpg?size=50x0&quality=96&crop=78,0,475,475&ava=1" },
+    { "id": "6", "name": "Oleg", "avatarUrl": "https://sun1-95.userapi.com/s/v1/ig2/9A9Mpxu4qi366-4__KY8Ot0frm_qv5GPUdGZ2f-nqwuV6k4XF7TFABIrKrtBKq8B-u_60mu8F8y8MGKdgWmNulxi.jpg?size=50x50&quality=96&crop=51,51,409,409&ava=1" }
+  ]
+}
